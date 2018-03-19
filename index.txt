@@ -1,3 +1,10 @@
 # Blog Post Data
 
 # Auth
+
+# Add header
+
+# Add body
+
+# Add footer
+
